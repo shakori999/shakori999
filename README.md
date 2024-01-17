@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murtatha Farjallah</h1>
-<h3 align="center">A passionate backend (soon full stack) developer from Iraq</h3>
+A passionate backend (soon full stack) developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakori999&label=Profile%20views&color=0e75b6&style=flat" alt="shakori999" /> </p>
 
@@ -8,8 +8,12 @@
 ### :woman_technologist: &nbsp;About Me :
 
 - 🔭 I’m currently working on [school management system](https://github.com/shakori999/school)
+  
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🌱 I’m currently learning **svelte,advance algorithms and data structures**
+  
+- 🌱 Exploring Technical Content Writing.
 
 - 👯 I’m looking to collaborate on [otard e-commerce(with advance structure)](https://github.com/shakori999/Otard)
 
@@ -18,12 +22,19 @@
 - 👨‍💻 All of my projects are available at [https://github.com/shakori999](https://github.com/shakori999)
 
 - 💬 Ask me about **django, DRF, arch linux, docker,postsql, TTD**
+  
+- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 
 - 📫 How to reach me **murtathafarjallah@gmail.com**
 
 - 📄 Know about my experiences [upload it soon!](upload it soon!)
 
 - ⚡ Fun fact **i like to try new things and I like to go outside more than any other rogrammers!**
+  ### :woman_technologist: &nbsp;About Me :
+
+
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+
 
 ---
 
@@ -45,8 +56,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakori999&show_icons=true&locale=en&layout=compact" alt="shakori999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakori999&show_icons=true&locale=en" alt="shakori999" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakori999&" alt="shakori999" /></p>
 
 ---
 
