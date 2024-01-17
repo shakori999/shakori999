@@ -43,11 +43,12 @@
 
 ### 🔥 &nbsp; My Stats :
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakori999&show_icons=true&locale=en&layout=compact" alt="shakori999" /></p>
----
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakori999&show_icons=true&locale=en" alt="shakori999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakori999&" alt="shakori999" /></p>
 
 ---
-### my trophies
+
+### my trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakori999" alt="shakori999" /></a> </p>
