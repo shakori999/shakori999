@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Murtatha Farjallah</h1>
 <h3 align="center">A passionate backend (soon full stack) developer from Iraq</h3>
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakori999&label=Profile%20views&color=0e75b6&style=flat" alt="shakori999" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakori999" alt="shakori999" /></a> </p>
----
+
+### :woman_technologist: &nbsp;About Me :
+
 - 🔭 I’m currently working on [school management system](https://github.com/shakori999/school)
 
 - 🌱 I’m currently learning **svelte,advance algorithms and data structures**
