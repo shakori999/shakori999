@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murtatha Farjallah</h1>
-A passionate backend (soon full stack) developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iraq.
+<h3 align='center'>A passionate backend (soon full stack) developer  from Iraq.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakori999&label=Profile%20views&color=0e75b6&style=flat" alt="shakori999" /> </p>
 
@@ -30,15 +30,10 @@ A passionate backend (soon full stack) developer <img src="https://media.giphy.c
 - 📄 Know about my experiences [upload it soon!](upload it soon!)
 
 - ⚡ Fun fact **i like to try new things and I like to go outside more than any other rogrammers!**
-  ### :woman_technologist: &nbsp;About Me :
-
-
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
-
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 &nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/morty.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morty.py" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpo1rd4sah7puvsb4kteyrq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpo1rd4sah7puvsb4kteyrq" height="30" width="40" /></a>
